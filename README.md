@@ -1,0 +1,2 @@
+# ronny
+hei guys!! kali oini saya akan memberikan beberapa tips atau tutorial bagaimana proses pembuatan coding atau program sederhana mengenai cara kerja pada logaritma, maaf aja nih kalo tutorialnya sedikit ngebosenin tapi next time akan aku bikin semenarik mungkin sehingga kita semua bisa belajar bareng bikin coding. pantau aja terus chanel ini karena disini kalian bisa menambah wawasan seputar dunia informatika.
